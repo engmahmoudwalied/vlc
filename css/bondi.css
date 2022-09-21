@@ -241,6 +241,10 @@ h5 {
         margin: 5px 25px auto;
         background-color: #e4622c;
     }
+    .link_botton{
+        width: 39%;
+        margin: auto;
+    }
 
 }
 
